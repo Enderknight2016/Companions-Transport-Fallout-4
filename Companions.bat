@@ -1,0 +1,26 @@
+// Transport All Companions To Player fallout 4
+prid 0001D162
+moveto player
+prid 00002f1f
+moveto player
+prid 00079305
+moveto player
+prid 0003f2bb
+moveto player
+prid 0001a4d7
+moveto player
+prid 0001ca7d
+moveto player
+prid 00002f25
+moveto player
+prid 00050976
+moveto player
+prid 00102249
+moveto player
+prid 00022615
+moveto player
+prid 0005de4d
+moveto player
+prid 03014602
+moveto player
+prid 0100ff12
